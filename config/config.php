@@ -2,7 +2,7 @@
 //EN - FR
 //CONFIGURATION - CONFIG
 //SITE NAME - Nom du site
-$sitename = 'SITE NAME - Nom du site';
+$sitename = 'layer';
 // CAPS ONLY - Majuscule seulement
 
 //Bit or byte - Bit ou octet
@@ -22,8 +22,8 @@ $lang = 'EN';
 $interface = 'eth0';
 
 // Ip of your server
-$ip = "127.0.0.1";
-$port = "80";
+$ip = "	185.199.110.153";
+$port = "443";
 
 //Graph title
 $Layer4Title = "Layer 4 ==>{$ip} PORT {$port} <==";
